@@ -12,4 +12,8 @@ creating a new branch is quick
 
 3changes
 
+<<<<<<< HEAD
 master change
+=======
+dev2
+>>>>>>> dev2
