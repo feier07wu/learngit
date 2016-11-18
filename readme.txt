@@ -13,9 +13,17 @@ creating a new branch is quick
 3changes
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 master change
 =======
 dev2
 >>>>>>> dev2
 
 ma fix
+=======
+master change
+
+dev fix
+>>>>>>> dev
+
+chage4
