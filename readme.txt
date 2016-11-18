@@ -9,3 +9,5 @@ creating a new branch is quick
 >>>>>>> dev
 
 2 change
+
+3changes
