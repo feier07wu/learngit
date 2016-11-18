@@ -28,4 +28,11 @@ dev fix
 
 chage4
 
+<<<<<<< HEAD
 m5
+=======
+
+dev5
+>>>>>>> dev5
+
+55
